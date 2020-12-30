@@ -1,9 +1,9 @@
 ---
 title: Will you spend 4 days to save 4 kb?
-slug: will-you-spend-4-days-to-save-4kb
-tags: engineering, Frontend Development
+slug: will-you-spend-4days-to-save-4kb
+tags: engineering, frontend-development, web-development
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1609226246059/RfZ24rck3.webp
-domain: sudhanshu.hasnode-dev
+domain: sudhanshu.hashnode.dev
 ---
 
 Consider you got a new use case for a new UI component for your product. And being a wise developer the first thing you do is search for a library in open source. You got an interesting project which serves your purpose.
