@@ -18,9 +18,9 @@ You may make the following arguments with your mind to not use that 6kb library.
 - The component will follow a similar convention for APIs if it is a home build
 - You will learn in the process of implementing it.
 
-## Are this argument complete?
+## Are these arguments complete?
 
-While all the above arguments are correct. But, are those arguments complete? There are other factors and questions you should be asking to make that decision.
+While all the above arguments are correct. But, are these arguments complete? There are other factors and questions you should be asking to make that decision.
 
 ### Is it actually 4 days?
 - You will have to write the code for it.
